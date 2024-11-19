@@ -1,3 +1,6 @@
+Please return this account to me as I am a student who is trying to do a nonprofit and you have nothing to gain from having this account. Please return it back to the emails that were here before you removed them :(
+
+
 # Azure Function App: MySQL Connection for Microsoft Form Responses
 
 ## Overview
